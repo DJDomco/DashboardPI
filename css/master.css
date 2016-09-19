@@ -1,8 +1,6 @@
 .clock {
-  background-color: blue;
-  height: auto;
-  width: auto;
+  background-color: white;
 }
-.body {
+body {
   background-color: #088DA5;
 }
