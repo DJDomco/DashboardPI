@@ -1,6 +1,16 @@
+* {
+  padding: 5px;
+}
 .clock {
   background-color: white;
+  width: 453px;
+  height: 100%;
+  font-size: 800%;
 }
 body {
   background-color: #088DA5;
+}
+.clock {
+    border: 2px solid black;
+    border-radius: 12px;
 }
